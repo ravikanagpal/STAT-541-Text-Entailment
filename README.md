@@ -18,7 +18,7 @@ In this project , we are performing a quantitative analysis of prevalent models 
 
 ## Code Files
 
-* `Models_bow_features.ipynb` : All models built on Bag of Words (BoW) and GLoVe Embeddings.
+* `GLoVe-BOW-all-models.ipynb` : All models built on Bag of Words (BoW) and GLoVe Embeddings.
 
 * `elmo-embedding-all-models.ipynb` : All models (CNN + LSTM + Bi-LSTM) built on ELMo Embeddings.
 
