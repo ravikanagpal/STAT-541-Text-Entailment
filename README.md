@@ -18,6 +18,17 @@ In this project , we are performing a quantitative analysis of prevalent models 
 
 ### Description about the Dataset:
 
+For our task, we have used the Stanford Natural Language Inference (SNLI) corpus, which is a collection of 570k human-written English sentence pairs manually labeled for balanced classification with the labels entailment, contradiction, and neutral. 
+
+Table 3 shows a few examples of pairs of sentences picked from the dataset and it’s corresponding entailments. Each entry is a pair of hypothesis and baseline with gold-label, and the parse structure of sentences in Penn Treebank format. Some key statistics about this corpus are listed in Table 2. About 2% of the622
+
+sentence pairs are labeled ’-’ in the corpus due to lack of consensus. These were not included in63
+either the training or evaluation process. This results in 549,367 training pairs, 9842 development64
+pairs and 9824 test pairs
+
+This complete dataset for the task can be downloaded from [this website](https://nlp.stanford.edu/projects/snli/). 
+
+
 
 ### Code Files:
 
