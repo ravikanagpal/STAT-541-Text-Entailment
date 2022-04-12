@@ -1,7 +1,7 @@
 # STAT-541-Text-Entailment
 
 
-### Team
+### Team:
 |Student name| CCID |
 |------------|------|
 | Ravika Nagpal | ravika1 |
@@ -16,15 +16,15 @@ We are attempting the problem of **Text Entailment**, which is determining wheth
 
 In this project , we are performing a quantitative analysis of prevalent models and embeddings for the task of text entailment and we are evaluating which model and embedding is the best for the text entailment task. 
 
-### Description about the Dataset
+### Description about the Dataset:
 
 
-### Code Files
+### Code Files:
 
 * `GLoVe-BOW-all-models.ipynb` : All models built on Bag of Words (BoW) and GLoVe Embeddings.
 
 * `elmo-embedding-all-models.ipynb` : All models (CNN + LSTM + Bi-LSTM) built on ELMo Embeddings.
 
 
-### References
+### References:
 
