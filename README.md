@@ -30,6 +30,8 @@ This complete dataset for the task can be downloaded from [this website](https:/
 
 * `elmo-embedding-all-models.ipynb` : All models (CNN + LSTM + Bi-LSTM) built on ELMo Embeddings.
 
+* `BERT-model.ipynb` : Bert model fine tuned
+
 
 ### References:
 
