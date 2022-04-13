@@ -1,4 +1,4 @@
-# STAT-541-Text-Entailment
+# STAT-541-Comparative Analysis of Different Approaches to Text Entailment
 
 
 ### Team:
