@@ -26,7 +26,7 @@ This complete dataset for the task can be downloaded from [this website](https:/
 
 ### Code Files:
 
-* `GLoVe-BOW-all-models.ipynb` : All models built on GLoVe Embeddings.
+* `GLoVe-all-models.ipynb` : All models built on GLoVe Embeddings.
 
 * `elmo-embedding-all-models.ipynb` : All models (CNN + LSTM + Bi-LSTM) built on ELMo Embeddings.
 
