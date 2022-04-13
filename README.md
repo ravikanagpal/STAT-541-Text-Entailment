@@ -33,3 +33,5 @@ This complete dataset for the task can be downloaded from [this website](https:/
 
 ### References:
 
+1. https://github.com/DamianValle/deep-entailment
+2. https://towardsdatascience.com/lstm-text-classification-using-pytorch-2c6c657f8fc0
