@@ -37,3 +37,4 @@ This complete dataset for the task can be downloaded from [this website](https:/
 
 1. https://github.com/DamianValle/deep-entailment
 2. https://towardsdatascience.com/lstm-text-classification-using-pytorch-2c6c657f8fc0
+3. https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/nlp/ipynb/semantic_similarity_with_bert.ipynb#scrollTo=BuS_XgmIaQrd
